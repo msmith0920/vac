@@ -27,6 +27,10 @@
 
 ## Notes
 
+August 2018: 
+Support was previously added for Televac MX200 by Mohan
+Support for QPC, MPCq, and SPC has now been added but only the QPC has been tested
+
 August 2007.   Mohan Ramanathan
 
 At this time the module has support for vacuum sensors GP307, GP350, Televac MM200
